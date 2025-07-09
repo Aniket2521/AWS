@@ -98,5 +98,5 @@ This project showcases how web applications can be effectively deployed and scal
 
 ## 🔗 Demo and Source Code
 
-- 🎥 [Demo Video](https://drive.google.com/file/d/1sXFfP4cZmmT8hJ0h3voknxtMfanGDPlj/view?usp=sharing)  
+- 🎥 [Demo Video](https://drive.google.com/file/d/1ejF2uoJcwmoYvI0AXSAS5j_YhlzzvT9f/view?usp=drive_link)  
 - 🧾 [GitHub Repository](https://github.com/Aniket2521/AWS.git)
